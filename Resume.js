@@ -8,8 +8,8 @@ class Resume {
     this.mobile = '+91-9555411847';
     this.location = 'Delhi/India';
     this.socialProfiles = [
-      { key: 'LinkedIn', value: 'https://www.linkedin.com/in/vishvasnagpal/' },
-      { key: 'Git hub', value: 'https://github.com/vishvasNagpal' },
+      { webSiteName: 'LinkedIn', urlToProfile: 'https://www.linkedin.com/in/vishvasnagpal/' },
+      { webSiteName: 'Git hub', urlToProfile: 'https://github.com/vishvasNagpal' },
     ];
   }
 
